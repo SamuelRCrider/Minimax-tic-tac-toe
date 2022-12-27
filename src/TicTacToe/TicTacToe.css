@@ -1,0 +1,16 @@
+.container {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+}
+table td {
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+}
+.resetbutton {
+position:absolute;
+left: 317px;
+}
